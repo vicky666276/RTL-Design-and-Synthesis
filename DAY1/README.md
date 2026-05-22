@@ -97,8 +97,6 @@ gtkwave tb_good_mux.vcd
 
 GTKWave Output
 
-Add your waveform screenshot here
-
 <img width="1600" height="874" alt="WhatsApp Image 2026-05-22 at 9 36 29 PM" src="https://github.com/user-attachments/assets/aed77aaf-49fc-48c9-af9d-b2ff1791165e" />
 
 
@@ -199,8 +197,6 @@ show
 ⸻
 
 Gate-Level Schematic
-
-Add your synthesized schematic screenshot here
 
 <img width="928" height="291" alt="WhatsApp Image 2026-05-22 at 9 35 59 PM" src="https://github.com/user-attachments/assets/9a362513-3588-4021-bce7-f6960b8bbd5c" />
 
