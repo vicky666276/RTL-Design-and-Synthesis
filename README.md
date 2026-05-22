@@ -89,22 +89,6 @@ The workshop is organized day-wise, with each day focusing on important concepts
 - RTL Optimization Techniques
 - Gate-Level Simulation (GLS)
 
----
-
-## 📸 Sample Outputs
-
-### GTKWave Output
-
-_Add waveform screenshots here_
-
----
-
-### Yosys Synthesis Output
-
-_Add synthesized schematic screenshots here_
-
----
-
 ## 📖 About SKY130
 
 SKY130 is an open-source Process Design Kit (PDK) that provides standard cell libraries and technology data required for ASIC design using open-source EDA tools.
