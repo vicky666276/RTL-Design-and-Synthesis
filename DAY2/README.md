@@ -1,4 +1,9 @@
 # Day 2 – Timing Libraries, Synthesis Approaches & Efficient Flip-Flop Coding
+<p align="center">
+  <img src="https://img.shields.io/badge/Workshop-SKY130%20RTL%20Design-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool-Yosys-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Simulation-GTKWave-orange?style=for-the-badge"/>
+</p>
 
 ---
 
