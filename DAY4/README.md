@@ -362,7 +362,7 @@ show
 
 # 📸 Yosys Synthesized Output
 
-<img width="1600" height="874" alt="WhatsApp Image 2026-05-22 at 11 41 35 PM" src="https://github.com/user-attachments/assets/63f4b493-1bb1-4446-9369-804c0c570012" />
+<img width="1600" height="874" alt="WhatsApp Image 2026-05-22 at 11 41 48 PM" src="https://github.com/user-attachments/assets/469c7db3-aac3-404a-bd16-7fdcddfe800f" />
 
 ---
 
